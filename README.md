@@ -1,5 +1,5 @@
 # gcrmndb_fish <img src='figs/hex_logo.png' align="right" height="138.5" />
-![version](https://img.shields.io/badge/version-0.0.0-%23144889)
+![status](https://img.shields.io/badge/status-in%20dev.-blue)![version](https://img.shields.io/badge/version-0.0.0-blue)
 
 ## 1. Introduction
 
